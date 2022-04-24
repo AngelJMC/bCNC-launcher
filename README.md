@@ -1,6 +1,6 @@
 # bCNC-launcher
 
-bCNC launcher provides the ability to manage different configurations of the bCNC software, this is really useful when you want to control more than one CNC machine with the bCNC software from the same computer.
+bCNC launcher allows to manage different configurations of the bCNC software, this is really useful when you want to control more than one CNC machine with the bCNC software from the same computer.
 
 ## Install bCNC software
 
