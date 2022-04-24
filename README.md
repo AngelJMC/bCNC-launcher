@@ -1,2 +1,5 @@
 # bCNC-launcher
 Program to run the bCNC software for different CNCs connected to the same computer.
+
+
+<a target="_blank" href="https://icons8.com/icon/1545/cnc-machine">CNC Machine</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
