@@ -8,7 +8,7 @@ Install (or upgrade) bCNC along with all required packages.
 
     pip install --upgrade 
     
-For more details about installation proces, see the ![bCNC installation](https://github.com/vlachoudis/bCNC/wiki/Installation) wiki page.
+For more details about installation process, see the ![bCNC installation](https://github.com/vlachoudis/bCNC/wiki/Installation) wiki page.
 
 ## Use bCNC-launcher
 
